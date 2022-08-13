@@ -133,4 +133,4 @@ dmypy.json
 *.mp4
 
 # Checkpoints
-.pt
+*.pt
